@@ -1,1 +1,1 @@
-# 4-Model-Compression-Techniques
+# 3-Model-Compression-Techniques
