@@ -38,7 +38,7 @@ different types of digits (0–9) in the dataset.
 
 We applied the three different model compression techniques on both datasets and then compared how
 well they did on each dataset to find the best algorithm for that dataset. The following models were used
-on data sets from different fields:
+on datasets from different fields:
 
 _**DenseNet-121**_: The DenseNet-121 architecture is based on the idea of "Dense Blocks," which
 are made up of many convolutional layers that are densely connected to each other. This means
