@@ -147,5 +147,9 @@ using four pre-trained models. The findings will help identify the most suitable
 technique for each dataset, enabling the deployment of efficient models on resource-limited
 devices.
 
+## Reference
+
+https://xailient.com/blog/4-popular-model-compression-techniques-explained/
+
 
 
